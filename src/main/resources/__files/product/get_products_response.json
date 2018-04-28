@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Cotton Shirt",
+    "description": "Blue shirt",
+    "code": "a234bz",
+    "quantity": 5,
+    "price": 10
+  },
+  {
+    "id": 2,
+    "name": "T-Shirt Basic",
+    "description": "Black T-Shirt",
+    "code": "a934bz",
+    "quantity": 3,
+    "price": 5
+  },
+  {
+    "id": 3,
+    "name": "Skinny Jean",
+    "description": "Blue jean",
+    "code": "j284bz",
+    "quantity": 3,
+    "price": 5
+  }
+]
