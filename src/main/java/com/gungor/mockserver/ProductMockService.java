@@ -8,10 +8,10 @@ public class ProductMockService implements MockService {
 
     @Override
     public void start() {
-        helloWorld();
+        products();
     }
 
-    private void helloWorld() {
+    private void products() {
         stubFor(get(urlEqualTo("/product-service/products"))
                 .willReturn(aResponse()
                         .withStatus(HttpStatus.SC_OK)
